@@ -1,0 +1,14 @@
+layout_spectrum: 0.7682112
+typography_spectrum: 0.6671625
+color:
+  saturation: 0.8940918
+  lightness: 0.3393348
+  brandStrength: 0.0102073
+  rhythmicContrast: 0.7565356
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Rolf.work
